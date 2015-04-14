@@ -1,5 +1,5 @@
 === Gift Certificate Creator ===
-Contributors: bobcares
+Contributors: bobcares_plugins
 Tags: Gift, gift-certificate, certificate-creator, gift-certificate-creator
 Requires at least: 3.0.1
 Tested up to: 4.1
