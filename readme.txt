@@ -1,6 +1,6 @@
 === Gift Certificate Creator ===
 Contributors: bobcares_plugins
-Tags: Gift, gift-certificate, certificate-creator, gift-certificate-creator
+Tags: gift, gift certificate, gift certificate creator
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.0
@@ -43,7 +43,7 @@ You can install the plugin from admin area and use the shortcode "[gift_certific
 
 = Need it customized? =
 
-Not exactly what you're looking for, but it's close? We can help you get the exact feature set for your requirements at Bobcares.
+Not exactly what you're looking for, but it's close? At [Bobcares](http://bobcares.com/software-and-design-services/wordpress-plugins.html), we can help you get the exact feature set for your requirements.
 Let's have a [quick chat!](http://bobcares.com/contacts/)
 
 
